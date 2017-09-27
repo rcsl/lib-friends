@@ -6,3 +6,6 @@ patch:
   'npm:ms:20170412':
     - mocha > debug > ms:
         patched: '2017-06-14T09:39:53.289Z'
+  'npm:debug:20170905':
+    - mocha > debug:
+        patched: '2017-09-27T03:44:08.501Z'
